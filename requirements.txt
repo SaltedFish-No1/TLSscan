@@ -1,0 +1,7 @@
+sslyze
+cryptography
+requests
+dnspython
+tqdm
+pandas
+ssl
